@@ -1,0 +1,30 @@
+﻿@page "/demo"
+@rendermode InteractiveServer
+
+<PageTitle>Demo</PageTitle>
+<h1>Demo</h1>
+<br />
+
+<input type="text" value="@inputValor" @oninput="AtualizaValor"/>
+<button @onclick="AtribuiValor">Salvar</button>
+
+<br />
+<br />
+<h3>O valor informado é: @Valor</h3>
+
+
+@code {
+    public string? Valor { get; set; }
+    public string? inputValor;
+
+    private void AtualizaValor(ChangeEventArgs e)
+    {
+        inputValor = e.Value.ToString();
+    }
+    private void AtribuiValor()
+    {
+        Valor = inputValor;
+        StateHasChanged();
+    }
+
+}
