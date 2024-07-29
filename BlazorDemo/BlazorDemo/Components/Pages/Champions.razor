@@ -1,0 +1,42 @@
+﻿@page "/champions"
+@inject BancoContext _context
+@rendermode InteractiveServer
+
+<PageTitle>Valorant Champions 2024</PageTitle>
+
+<h1>Valorant - Champions 2024</h1>
+
+@if (timesQueryable == null)
+{
+	<p><em>Carregando...</em></p>
+}
+else
+{
+	<div class="grid">
+	<QuickGrid Items="@timesQueryable">
+			<PropertyColumn Property="@(p=>p.Posicao)" Title="Posicao" Sortable="true" />
+		<PropertyColumn Property="@(p=>p.Nome)" Title="Time"/>
+			<PropertyColumn Property="@(p=>p.Pontos)" Title="Pontos" Sortable="true" />
+			<PropertyColumn Property="@(p=>p.Regiao)" Title="Regiao" Sortable="true" />
+
+		</QuickGrid>
+	</div>
+}
+
+
+@code {
+
+	IQueryable<Time>? timesQueryable;
+
+	protected override async Task OnInitializedAsync() {
+		await Task.Delay(300);
+		CarregaTimes();
+	}
+
+	private IQueryable<Time> CarregaTimes()
+	{
+		timesQueryable = _context.Times.OrderByDescending(x => x.Pontos).ThenByDescending(x => x.Posicao).AsQueryable<Time>();
+		return timesQueryable;
+	}
+
+}

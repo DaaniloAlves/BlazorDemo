@@ -1,5 +1,8 @@
 using BlazorDemo.Client.Pages;
 using BlazorDemo.Components;
+using BlazorDemo.Context;
+using Microsoft.EntityFrameworkCore;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,7 +11,12 @@ builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents()
     .AddInteractiveWebAssemblyComponents();
 
+builder.Services.AddDbContext<BancoContext>(o => o.UseSqlite(builder.Configuration.GetConnectionString("Sqlite")));
+builder.Services.AddQuickGridEntityFrameworkAdapter();
+
 var app = builder.Build();
+
+CreateDatabase(app);
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -33,3 +41,10 @@ app.MapRazorComponents<App>()
     .AddAdditionalAssemblies(typeof(BlazorDemo.Client._Imports).Assembly);
 
 app.Run();
+
+static void CreateDatabase(WebApplication app)
+{
+    var serviceScope = app.Services.CreateScope();
+    var dataContext = serviceScope.ServiceProvider.GetService<BancoContext>();
+    dataContext?.Database.EnsureCreated();
+}

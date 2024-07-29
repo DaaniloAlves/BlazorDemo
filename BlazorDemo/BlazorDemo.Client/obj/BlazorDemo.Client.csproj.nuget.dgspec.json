@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daguimaraes\\source\\repos\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\BlazorDemo.Client.csproj": {}
+    "C:\\Users\\dadan\\Documents\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\BlazorDemo.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daguimaraes\\source\\repos\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\BlazorDemo.Client.csproj": {
+    "C:\\Users\\dadan\\Documents\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\BlazorDemo.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daguimaraes\\source\\repos\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\BlazorDemo.Client.csproj",
+        "projectUniqueName": "C:\\Users\\dadan\\Documents\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\BlazorDemo.Client.csproj",
         "projectName": "BlazorDemo.Client",
-        "projectPath": "C:\\Users\\daguimaraes\\source\\repos\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\BlazorDemo.Client.csproj",
-        "packagesPath": "C:\\Users\\daguimaraes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daguimaraes\\source\\repos\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\",
+        "projectPath": "C:\\Users\\dadan\\Documents\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\BlazorDemo.Client.csproj",
+        "packagesPath": "C:\\Users\\dadan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dadan\\Documents\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\daguimaraes\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\dadan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
