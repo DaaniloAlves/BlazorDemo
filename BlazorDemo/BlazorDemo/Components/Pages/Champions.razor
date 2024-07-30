@@ -12,31 +12,54 @@
 }
 else
 {
+	<h4><p>Posições estão erradas</p></h4>
 	<div class="grid">
 	<QuickGrid Items="@timesQueryable">
-			<PropertyColumn Property="@(p=>p.Posicao)" Title="Posicao" Sortable="true" />
+			<PropertyColumn Property="@(p=>p.Posicao)" Title="Time" />
 		<PropertyColumn Property="@(p=>p.Nome)" Title="Time"/>
-			<PropertyColumn Property="@(p=>p.Pontos)" Title="Pontos" Sortable="true" />
+			<PropertyColumn Property="@(p=>p.Pontos)" Title="Pontos" Sortable="true" IsDefaultSortColumn="true" />
 			<PropertyColumn Property="@(p=>p.Regiao)" Title="Regiao" Sortable="true" />
-
+				<TemplateColumn Title="Ação">
+					<button class="btn btn-primary" @onclick="@(() => MostrarMensagem(context))">Regiao</button>
+				</TemplateColumn>
 		</QuickGrid>
 	</div>
+
 }
+
+<h3>@Mensagem</h3>
 
 
 @code {
 
 	IQueryable<Time>? timesQueryable;
+	IQueryable<int>? posicoes;
+	string? Mensagem;
 
 	protected override async Task OnInitializedAsync() {
 		await Task.Delay(300);
 		CarregaTimes();
+		CarregaPosicoes();
 	}
 
 	private IQueryable<Time> CarregaTimes()
 	{
 		timesQueryable = _context.Times.OrderByDescending(x => x.Pontos).ThenByDescending(x => x.Posicao).AsQueryable<Time>();
 		return timesQueryable;
+	}
+
+	private IQueryable<int> CarregaPosicoes()
+	{
+		List<int> numeros = new List<int>
+		{
+			1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
+		};
+		posicoes = numeros.AsQueryable<int>();
+		return posicoes;
+	}
+	private void MostrarMensagem(Time time)
+	{
+		Mensagem = $"{time.Nome} - {time.Regiao}";
 	}
 
 }
