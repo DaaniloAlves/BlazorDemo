@@ -1,0 +1,12 @@
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo.Shared\bin\Debug\net8.0\BlazorDemo.Shared.deps.json
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo.Shared\bin\Debug\net8.0\BlazorDemo.Shared.dll
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo.Shared\bin\Debug\net8.0\BlazorDemo.Shared.pdb
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo.Shared\obj\Debug\net8.0\BlazorDemo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo.Shared\obj\Debug\net8.0\BlazorDemo.Shared.AssemblyInfoInputs.cache
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo.Shared\obj\Debug\net8.0\BlazorDemo.Shared.AssemblyInfo.cs
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo.Shared\obj\Debug\net8.0\BlazorDemo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo.Shared\obj\Debug\net8.0\BlazorDemo.Shared.sourcelink.json
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo.Shared\obj\Debug\net8.0\BlazorDemo.Shared.dll
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo.Shared\obj\Debug\net8.0\refint\BlazorDemo.Shared.dll
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo.Shared\obj\Debug\net8.0\BlazorDemo.Shared.pdb
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo.Shared\obj\Debug\net8.0\ref\BlazorDemo.Shared.dll

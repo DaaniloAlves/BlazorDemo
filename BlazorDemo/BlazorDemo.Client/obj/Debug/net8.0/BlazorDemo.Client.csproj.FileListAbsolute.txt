@@ -2055,7 +2055,10 @@ C:\Users\dadan\Documents\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\obj\Debu
 C:\Users\dadan\Documents\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\obj\Debug\net8.0\refint\BlazorDemo.Client.dll
 C:\Users\dadan\Documents\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\obj\Debug\net8.0\BlazorDemo.Client.pdb
 C:\Users\dadan\Documents\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\obj\Debug\net8.0\ref\BlazorDemo.Client.dll
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\BlazorDemo.Client.pdb
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\BlazorDemo.Client.wasm
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.js
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.7.vtr4d1um08.js
@@ -2256,21 +2259,9 @@ C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Gith
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.wasm
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.XDocument.wasm
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\WindowsBase.wasm
-C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\icudt_CJK.dat.gz
-C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.7.38pezrhay3.js.gz
-C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\icudt_no_CJK.dat.gz
-C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map.gz
-C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\icudt_EFIGS.dat.gz
-C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.map.gz
-C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.wasm.gz
-C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.gz
-C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js.gz
-C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.7.vtr4d1um08.js.gz
-C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
-C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\BlazorDemo.Client.pdb
-C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\BlazorDemo.Client.wasm
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Specialized.wasm.gz
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\icudt_CJK.dat.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipes.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipelines.wasm.gz
@@ -2283,6 +2274,7 @@ C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Gith
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.IO.IsolatedStorage.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Net.Primitives.wasm.gz
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.7.38pezrhay3.js.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Drawing.Primitives.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Collections.wasm.gz
@@ -2292,6 +2284,7 @@ C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Gith
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Drawing.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebProxy.wasm.gz
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\icudt_no_CJK.dat.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Web.HttpUtility.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.wasm.gz
@@ -2325,6 +2318,8 @@ C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Gith
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Tracing.wasm.gz
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map.gz
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\icudt_EFIGS.dat.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\BlazorDemo.Client.pdb.gz
@@ -2371,6 +2366,7 @@ C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Gith
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\WindowsBase.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XmlDocument.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.wasm.gz
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.map.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Cng.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Json.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.wasm.gz
@@ -2382,6 +2378,7 @@ C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Gith
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Resources.Writer.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Extensions.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.VisualBasic.Core.wasm.gz
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Security.Claims.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.Brotli.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.Extensions.wasm.gz
@@ -2423,6 +2420,7 @@ C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Gith
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Expressions.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Timer.wasm.gz
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.JSInterop.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Parallel.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Memory.wasm.gz
@@ -2432,6 +2430,7 @@ C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Gith
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.Calendars.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.Annotations.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.ValueTuple.wasm.gz
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.ObjectModel.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Transactions.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.wasm.gz
@@ -2441,6 +2440,7 @@ C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Gith
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.Process.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Configuration.wasm.gz
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.7.vtr4d1um08.js.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Transactions.Local.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Thread.wasm.gz
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Primitives.wasm.gz

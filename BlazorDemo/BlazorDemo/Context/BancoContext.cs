@@ -12,7 +12,7 @@ namespace BlazorDemo.Context
 
         public DbSet<Time> Times { get; set; }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
+         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Time>().HasData(
                 new Time
@@ -130,7 +130,7 @@ namespace BlazorDemo.Context
                     Posicao = 16,
                     Regiao = "Pacifico"
                 });
-        }
+        } 
 
 
     }

@@ -1,6 +1,8 @@
 using BlazorDemo.Client.Pages;
 using BlazorDemo.Components;
 using BlazorDemo.Context;
+using BlazorDemo.Repositorios;
+using BlazorDemo.Shared.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 
@@ -13,6 +15,9 @@ builder.Services.AddRazorComponents()
 
 builder.Services.AddDbContext<BancoContext>(o => o.UseSqlite(builder.Configuration.GetConnectionString("Sqlite")));
 builder.Services.AddQuickGridEntityFrameworkAdapter();
+
+builder.Services.AddDbContext<ClienteContext>(o => o.UseSqlServer(builder.Configuration.GetConnectionString("ClienteDatabase")));
+builder.Services.AddScoped<IClienteRepository, ClienteRepositorio>();
 
 var app = builder.Build();
 
