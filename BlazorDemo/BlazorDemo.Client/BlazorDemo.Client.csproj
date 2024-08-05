@@ -9,6 +9,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="Pages\ManutencaoCliente.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.7" />
   </ItemGroup>
 
@@ -20,6 +24,18 @@
 
   <ItemGroup>
     <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\ManutencaoCliente.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\ManutencaoCliente.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Pages\ManutencaoCliente.razor" />
   </ItemGroup>
 
 </Project>

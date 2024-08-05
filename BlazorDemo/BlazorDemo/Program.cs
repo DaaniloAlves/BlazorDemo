@@ -18,6 +18,10 @@ builder.Services.AddQuickGridEntityFrameworkAdapter();
 
 builder.Services.AddDbContext<ClienteContext>(o => o.UseSqlServer(builder.Configuration.GetConnectionString("ClienteDatabase")));
 builder.Services.AddScoped<IClienteRepository, ClienteRepositorio>();
+builder.Services.AddScoped(o => new HttpClient
+{
+    BaseAddress = new Uri(builder.Configuration.GetSection("BaseAdress").Value!)
+});
 
 var app = builder.Build();
 
