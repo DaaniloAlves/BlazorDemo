@@ -3,9 +3,11 @@ using BlazorDemo.Shared.Entities;
 using BlazorDemo.Shared.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BlazorDemo.Controllers
-{
-	public class ClienteController : Controller
+namespace BlazorDemo.Controllers;
+
+    [Route("api/[controller]")]
+    [ApiController]
+	public class ClienteController : ControllerBase
 	{
 		private readonly IClienteRepository _clienteRepository;
 
@@ -42,7 +44,7 @@ namespace BlazorDemo.Controllers
             return Ok(cliente);
         }
 
-        [HttpDelete("Delete-Cliente")]
+        [HttpDelete("Delete-Cliente/{id}")]
         public async Task<ActionResult<List<Cliente>>> DeleteClienteAsync(int id)
         {
             var cliente = await _clienteRepository.DeleteClienteAsync(id);
@@ -51,4 +53,4 @@ namespace BlazorDemo.Controllers
 
     }
 
-}
+

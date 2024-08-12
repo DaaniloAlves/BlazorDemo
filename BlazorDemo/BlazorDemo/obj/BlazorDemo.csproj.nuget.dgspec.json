@@ -101,7 +101,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj": {
+                "projectPath": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo.Shared\\BlazorDemo.Shared.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

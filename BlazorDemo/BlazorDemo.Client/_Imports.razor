@@ -7,3 +7,10 @@
 @using Microsoft.AspNetCore.Components.Web.Virtualization
 @using Microsoft.JSInterop
 @using BlazorDemo.Client
+@using System.ComponentModel.DataAnnotations
+@using BlazorDemo.Shared.Interfaces
+@using BlazorDemo.Shared.Entities
+
+@inject IClienteRepository _clienteService
+@inject NavigationManager _navigation
+@inject IJSRuntime js

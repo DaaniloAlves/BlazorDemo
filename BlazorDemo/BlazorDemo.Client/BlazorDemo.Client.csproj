@@ -23,10 +23,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Services\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <UpToDateCheckInput Remove="Pages\ManutencaoCliente.razor" />
   </ItemGroup>
 
@@ -36,6 +32,10 @@
 
   <ItemGroup>
     <None Include="Pages\ManutencaoCliente.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\BlazorDemo.Shared\BlazorDemo.Shared.csproj" />
   </ItemGroup>
 
 </Project>

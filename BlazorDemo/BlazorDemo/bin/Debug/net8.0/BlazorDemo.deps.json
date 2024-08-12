@@ -1227,6 +1227,7 @@
       },
       "BlazorDemo.Client/1.0.0": {
         "dependencies": {
+          "BlazorDemo.Shared": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "8.0.7"
         },
         "runtime": {

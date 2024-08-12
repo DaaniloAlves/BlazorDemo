@@ -3084,3 +3084,12 @@ C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Gith
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\obj\Debug\net8.0\refint\BlazorDemo.Client.dll
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\obj\Debug\net8.0\BlazorDemo.Client.pdb
 C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\obj\Debug\net8.0\ref\BlazorDemo.Client.dll
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\BlazorDemo.Shared.pdb
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\BlazorDemo.Shared.wasm
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\BlazorDemo.Shared.pdb.gz
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\wwwroot\_framework\BlazorDemo.Shared.wasm.gz
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\BlazorDemo.Shared.dll
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\bin\Debug\net8.0\BlazorDemo.Shared.pdb
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\obj\Debug\net8.0\webcil\BlazorDemo.Shared.wasm
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\obj\Debug\net8.0\compressed\msw02l8g2t.gz
+C:\Users\daguimaraes\OneDrive - Tribunal de Justica de Sao Paulo\Documentos\Github\BlazorDemo\BlazorDemo\BlazorDemo.Client\obj\Debug\net8.0\compressed\5ksy8q3p02.gz
