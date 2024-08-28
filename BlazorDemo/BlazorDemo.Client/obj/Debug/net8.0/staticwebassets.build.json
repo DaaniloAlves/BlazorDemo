@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "N536JRw27k1Jt/ukYdT6gM6wzF+16pF4c3vTiWxRNRk=",
+  "Hash": "ky2Nsl3NTZ2ggSIlaKhPSJZR1BQ0M2yWed4SISellbA=",
   "Source": "BlazorDemo.Client",
   "BasePath": "/",
   "Mode": "Default",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\daguimaraes\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Users\\daguimaraes\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\daguimaraes\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Users\\daguimaraes\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.7.vtr4d1um08.js",
+      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.v5f133oxj1.js",
       "SourceId": "BlazorDemo.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.7.vtr4d1um08.js",
+      "RelativePath": "_framework/dotnet.native.8.0.8.v5f133oxj1.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,7 +185,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\daguimaraes\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Users\\daguimaraes\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -204,15 +204,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\daguimaraes\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Users\\daguimaraes\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.7.38pezrhay3.js",
+      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.0r17nwsrfs.js",
       "SourceId": "BlazorDemo.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.7.38pezrhay3.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.8.0r17nwsrfs.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\daguimaraes\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Users\\daguimaraes\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -242,7 +242,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\daguimaraes\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Users\\daguimaraes\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
@@ -261,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\daguimaraes\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\daguimaraes\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -280,7 +280,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\daguimaraes\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Users\\daguimaraes\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -299,7 +299,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\daguimaraes\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.7\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Users\\daguimaraes\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.8\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm",
@@ -3969,25 +3969,6 @@
       "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Collections.Specialized.wasm"
     },
     {
-      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\0909c4mew8.gz",
-      "SourceId": "BlazorDemo.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
-    },
-    {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\0kxy7acuq2.gz",
       "SourceId": "BlazorDemo.Client",
       "SourceType": "Computed",
@@ -4005,6 +3986,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\0r17nwsrfs.gz",
+      "SourceId": "BlazorDemo.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.8.0r17nwsrfs.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.0r17nwsrfs.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.8.0r17nwsrfs.js"
     },
     {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\0t2k1r8h9m.gz",
@@ -4140,6 +4140,25 @@
       "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Http.wasm"
     },
     {
+      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\1zmzuvp1nd.gz",
+      "SourceId": "BlazorDemo.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
+    },
+    {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\25r0i93z16.gz",
       "SourceId": "BlazorDemo.Client",
       "SourceType": "Computed",
@@ -4214,25 +4233,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.Primitives.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\38pezrhay3.gz",
-      "SourceId": "BlazorDemo.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.7.38pezrhay3.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.7.38pezrhay3.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.7.38pezrhay3.js"
     },
     {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\3bchf22kat.gz",
@@ -4404,25 +4404,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.WebProxy.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\4rausmi6be.gz",
-      "SourceId": "BlazorDemo.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\4tfxyvxaqv.gz",
@@ -4938,6 +4919,44 @@
       "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.XPath.XDocument.wasm"
     },
     {
+      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\91coj6s4v3.gz",
+      "SourceId": "BlazorDemo.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
+    },
+    {
+      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\92mn1yys6z.gz",
+      "SourceId": "BlazorDemo.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
+    },
+    {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\93eiulrs51.gz",
       "SourceId": "BlazorDemo.Client",
       "SourceType": "Computed",
@@ -5069,44 +5088,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.Tracing.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\ah4gmwjh4u.gz",
-      "SourceId": "BlazorDemo.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
-    },
-    {
-      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\b0geexp4qz.gz",
-      "SourceId": "BlazorDemo.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\bhw9lu8lzr.gz",
@@ -5907,6 +5888,25 @@
       "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Net.ServicePoint.wasm"
     },
     {
+      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\hhjrztadq5.gz",
+      "SourceId": "BlazorDemo.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
+    },
+    {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\hvieagdegw.gz",
       "SourceId": "BlazorDemo.Client",
       "SourceType": "Computed",
@@ -5981,25 +5981,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\j3sjzwsde7.gz",
-      "SourceId": "BlazorDemo.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\j8zce4596r.gz",
@@ -6209,25 +6190,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.VisualBasic.Core.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\lcjgtn045h.gz",
-      "SourceId": "BlazorDemo.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\leupksjxgd.gz",
@@ -6534,6 +6496,25 @@
       "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Channels.wasm"
     },
     {
+      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\nnnfnbmwny.gz",
+      "SourceId": "BlazorDemo.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
+    },
+    {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\o9o5lybznt.gz",
       "SourceId": "BlazorDemo.Client",
       "SourceType": "Computed",
@@ -6760,6 +6741,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Handles.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\qop1zcyhru.gz",
+      "SourceId": "BlazorDemo.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\r63g6ozjtj.gz",
@@ -7028,25 +7028,6 @@
       "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Timer.wasm"
     },
     {
-      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\sgt8yyx1jm.gz",
-      "SourceId": "BlazorDemo.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.js"
-    },
-    {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\so5mdwck6c.gz",
       "SourceId": "BlazorDemo.Client",
       "SourceType": "Computed",
@@ -7237,6 +7218,25 @@
       "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js"
     },
     {
+      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\udv09xvno7.gz",
+      "SourceId": "BlazorDemo.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
+    },
+    {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\uel4o7ai76.gz",
       "SourceId": "BlazorDemo.Client",
       "SourceType": "Computed",
@@ -7311,6 +7311,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.TextWriterTraceListener.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\v5f133oxj1.gz",
+      "SourceId": "BlazorDemo.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.8.v5f133oxj1.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.v5f133oxj1.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.8.v5f133oxj1.js"
     },
     {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\v8g798fsxu.gz",
@@ -7406,25 +7425,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Configuration.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\vtr4d1um08.gz",
-      "SourceId": "BlazorDemo.Client",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.7.vtr4d1um08.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.7.vtr4d1um08.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.7.vtr4d1um08.js"
     },
     {
       "Identity": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\obj\\Debug\\net8.0\\compressed\\vutlyzcs8v.gz",

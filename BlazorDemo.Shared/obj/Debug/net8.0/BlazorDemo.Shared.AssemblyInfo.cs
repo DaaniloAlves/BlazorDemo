@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorDemo.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23693dafd81b0e161aa404e4b0d229bd520cf428")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9bd0f08baeda1f656b5cfc2ec94efa954808cce")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorDemo.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorDemo.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

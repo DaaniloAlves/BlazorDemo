@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F88C88C2-F724-44D3-B8CE-DFC840B8B25C}|BlazorDemo\\BlazorDemo.Client\\BlazorDemo.Client.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\blazordemo\\blazordemo\\blazordemo.client\\pages\\manutencaocliente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F88C88C2-F724-44D3-B8CE-DFC840B8B25C}|BlazorDemo\\BlazorDemo.Client\\BlazorDemo.Client.csproj|solutionrelative:blazordemo\\blazordemo.client\\pages\\manutencaocliente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9737E6D2-F4EA-469B-97FD-F8AF4965BCEC}|BlazorDemo\\BlazorDemo\\BlazorDemo.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\blazordemo\\blazordemo\\blazordemo\\components\\pages\\clientes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9737E6D2-F4EA-469B-97FD-F8AF4965BCEC}|BlazorDemo\\BlazorDemo\\BlazorDemo.csproj|solutionrelative:blazordemo\\blazordemo\\components\\pages\\clientes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88C88C2-F724-44D3-B8CE-DFC840B8B25C}|BlazorDemo\\BlazorDemo.Client\\BlazorDemo.Client.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\blazordemo\\blazordemo\\blazordemo.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F88C88C2-F724-44D3-B8CE-DFC840B8B25C}|BlazorDemo\\BlazorDemo.Client\\BlazorDemo.Client.csproj|solutionrelative:blazordemo\\blazordemo.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88C88C2-F724-44D3-B8CE-DFC840B8B25C}|BlazorDemo\\BlazorDemo.Client\\BlazorDemo.Client.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\blazordemo\\blazordemo\\blazordemo.client\\pages\\meucomponente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F88C88C2-F724-44D3-B8CE-DFC840B8B25C}|BlazorDemo\\BlazorDemo.Client\\BlazorDemo.Client.csproj|solutionrelative:blazordemo\\blazordemo.client\\pages\\meucomponente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9737E6D2-F4EA-469B-97FD-F8AF4965BCEC}|BlazorDemo\\BlazorDemo\\BlazorDemo.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\blazordemo\\blazordemo\\blazordemo\\migrations\\20240828181631_migrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9737E6D2-F4EA-469B-97FD-F8AF4965BCEC}|BlazorDemo\\BlazorDemo\\BlazorDemo.csproj|solutionrelative:blazordemo\\blazordemo\\migrations\\20240828181631_migrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F88C88C2-F724-44D3-B8CE-DFC840B8B25C}|BlazorDemo\\BlazorDemo.Client\\BlazorDemo.Client.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\blazordemo\\blazordemo\\blazordemo.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F88C88C2-F724-44D3-B8CE-DFC840B8B25C}|BlazorDemo\\BlazorDemo.Client\\BlazorDemo.Client.csproj|solutionrelative:blazordemo\\blazordemo.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9737E6D2-F4EA-469B-97FD-F8AF4965BCEC}|BlazorDemo\\BlazorDemo\\BlazorDemo.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\blazordemo\\blazordemo\\blazordemo\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9737E6D2-F4EA-469B-97FD-F8AF4965BCEC}|BlazorDemo\\BlazorDemo\\BlazorDemo.csproj|solutionrelative:blazordemo\\blazordemo\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9737E6D2-F4EA-469B-97FD-F8AF4965BCEC}|BlazorDemo\\BlazorDemo\\BlazorDemo.csproj|c:\\users\\daguimaraes\\onedrive - tribunal de justica de sao paulo\\documentos\\github\\blazordemo\\blazordemo\\blazordemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9737E6D2-F4EA-469B-97FD-F8AF4965BCEC}|BlazorDemo\\BlazorDemo\\BlazorDemo.csproj|solutionrelative:blazordemo\\blazordemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManutencaoCliente.razor",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\Pages\\ManutencaoCliente.razor",
+              "RelativeDocumentMoniker": "BlazorDemo\\BlazorDemo.Client\\Pages\\ManutencaoCliente.razor",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\Pages\\ManutencaoCliente.razor",
+              "RelativeToolTip": "BlazorDemo\\BlazorDemo.Client\\Pages\\ManutencaoCliente.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T18:39:23.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorDemo\\BlazorDemo.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\Program.cs",
+              "RelativeToolTip": "BlazorDemo\\BlazorDemo.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:33:36.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MeuComponente.razor",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\Pages\\MeuComponente.razor",
+              "RelativeDocumentMoniker": "BlazorDemo\\BlazorDemo.Client\\Pages\\MeuComponente.razor",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\Pages\\MeuComponente.razor",
+              "RelativeToolTip": "BlazorDemo\\BlazorDemo.Client\\Pages\\MeuComponente.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T18:33:16.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorDemo\\BlazorDemo.Client\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorDemo\\BlazorDemo.Client\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T18:29:15.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorDemo\\BlazorDemo\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo\\Components\\_Imports.razor",
+              "RelativeToolTip": "BlazorDemo\\BlazorDemo\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T18:26:15.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clientes.razor",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo\\Components\\Pages\\Clientes.razor",
+              "RelativeDocumentMoniker": "BlazorDemo\\BlazorDemo\\Components\\Pages\\Clientes.razor",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo\\Components\\Pages\\Clientes.razor",
+              "RelativeToolTip": "BlazorDemo\\BlazorDemo\\Components\\Pages\\Clientes.razor",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T18:13:31.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240828181631_MigrationName.cs",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo\\Migrations\\20240828181631_MigrationName.cs",
+              "RelativeDocumentMoniker": "BlazorDemo\\BlazorDemo\\Migrations\\20240828181631_MigrationName.cs",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo\\Migrations\\20240828181631_MigrationName.cs",
+              "RelativeToolTip": "BlazorDemo\\BlazorDemo\\Migrations\\20240828181631_MigrationName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:16:31.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazorDemo\\BlazorDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\daguimaraes\\OneDrive - Tribunal de Justica de Sao Paulo\\Documentos\\Github\\BlazorDemo\\BlazorDemo\\BlazorDemo\\appsettings.json",
+              "RelativeToolTip": "BlazorDemo\\BlazorDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T18:11:49.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

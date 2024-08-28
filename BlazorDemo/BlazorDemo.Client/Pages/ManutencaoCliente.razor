@@ -26,8 +26,8 @@
                             <InputNumber @bind-Value="ClienteModel.Idade" class="form-control"></InputNumber>
                             <ValidationMessage For="()=>ClienteModel.Idade"></ValidationMessage>
                         </div>
-                        <button type="submit" class="btn btn-primary mt-2"></button>
-                        
+                        <button type="submit" class="btn btn-primary mt-2">Submit</button>
+
                     </EditForm>
                 </div>
                 <div class="card-footer">
@@ -50,11 +50,14 @@
 
 
 
-    private async Task HandleSalvar() {
-        if (ClienteModel.Id > 0) {
+    private async Task HandleSalvar()
+    {
+        if (ClienteModel.Id > 0)
+        {
             ReturnCliente = await _clienteService.UpdateClienteAsync(ClienteModel);
             ClienteModel = new();
-        } else
+        }
+        else
         {
             ReturnCliente = await _clienteService.AddClienteAsync(ClienteModel);
             ClienteModel = new();

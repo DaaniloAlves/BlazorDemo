@@ -1231,12 +1231,18 @@
           "Microsoft.AspNetCore.Components.WebAssembly": "8.0.7"
         },
         "runtime": {
-          "BlazorDemo.Client.dll": {}
+          "BlazorDemo.Client.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "BlazorDemo.Shared/1.0.0": {
         "runtime": {
-          "BlazorDemo.Shared.dll": {}
+          "BlazorDemo.Shared.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
