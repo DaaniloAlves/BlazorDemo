@@ -17,7 +17,7 @@ builder.Services.AddDbContext<BancoContext>(o => o.UseSqlite(builder.Configurati
 builder.Services.AddQuickGridEntityFrameworkAdapter();
 
 builder.Services.AddDbContext<ClienteContext>(o => o.UseSqlServer(builder.Configuration.GetConnectionString("ClienteDatabase")));
-builder.Services.AddScoped<IClienteRepository, ClienteRepositorio>();
+builder.Services.AddScoped<IClienteRepositorio, ClienteRepositorio>();
 builder.Services.AddScoped(o => new HttpClient
 {
     BaseAddress = new Uri(builder.Configuration.GetSection("BaseAdress").Value!)

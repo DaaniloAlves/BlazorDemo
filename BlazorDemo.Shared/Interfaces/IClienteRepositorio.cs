@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BlazorDemo.Shared.Interfaces
 {
-	public interface IClienteRepository
+	public interface IClienteRepositorio
 	{
 		Task<Cliente> AddClienteAsync(Cliente cliente);
 		Task<Cliente> UpdateClienteAsync(Cliente cliente);

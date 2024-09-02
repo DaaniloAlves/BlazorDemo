@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BlazorDemo.Repositorios
 {
-	public class ClienteRepositorio : IClienteRepository
+	public class ClienteRepositorio : IClienteRepositorio
 	{
 		private readonly ClienteContext _context;
 

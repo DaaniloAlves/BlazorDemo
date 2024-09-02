@@ -11,10 +11,13 @@ namespace BlazorDemo.Shared.Entities
 	{
 		public int Id { get; set; }
 		[Required]
+		[StringLength(6)]
 		public string Name { get; set; } = string.Empty;
 		[Required]
+		[EmailAddress]
 		public string Email { get; set; } = string.Empty;
 		[Required]
+		[Range(18, 80)]
 		public int Idade { get; set; }
 
 

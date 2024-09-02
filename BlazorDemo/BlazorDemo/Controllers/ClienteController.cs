@@ -9,9 +9,9 @@ namespace BlazorDemo.Controllers;
     [ApiController]
 	public class ClienteController : ControllerBase
 	{
-		private readonly IClienteRepository _clienteRepository;
+		private readonly IClienteRepositorio _clienteRepository;
 
-        public ClienteController(IClienteRepository c)
+        public ClienteController(IClienteRepositorio c)
         {
             _clienteRepository = c;
         }

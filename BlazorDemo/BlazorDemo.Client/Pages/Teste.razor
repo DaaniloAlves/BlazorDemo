@@ -1,0 +1,10 @@
+﻿@page "/teste"
+@rendermode InteractiveWebAssembly
+
+<h3>Teste</h3>
+
+<h2 class="text-muted">Render @(OperatingSystem.IsBrowser() ? "Wasm" : "Server")</h2>
+
+@code {
+
+}

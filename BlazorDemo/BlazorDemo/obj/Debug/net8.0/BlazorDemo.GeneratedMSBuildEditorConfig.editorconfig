@@ -42,6 +42,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZW5kZXJNb2Rlcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/daguimaraes/OneDrive - Tribunal de Justica de Sao Paulo/Documentos/Github/BlazorDemo/BlazorDemo/BlazorDemo/Components/Pages/TesteWebAssembly.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUZXN0ZVdlYkFzc2VtYmx5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/daguimaraes/OneDrive - Tribunal de Justica de Sao Paulo/Documentos/Github/BlazorDemo/BlazorDemo/BlazorDemo/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 

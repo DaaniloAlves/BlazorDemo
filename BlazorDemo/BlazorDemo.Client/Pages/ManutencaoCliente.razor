@@ -1,8 +1,12 @@
-﻿@page "/manutencaocliente"
+﻿@page "/manutencaocliente" 
 @page "/manutencaocliente/{Id:int}"
 @rendermode InteractiveAuto
+@inject IClienteRepositorio _clienteService
+
 
 <h3>ManutencaoCliente</h3>
+
+<h2 class="text-muted">Render @(OperatingSystem.IsBrowser() ? "Wasm" : "Server")</h2>
 
 <div class="container">
     <div class="row">
@@ -11,6 +15,7 @@
                 <div class="card-header">Manutenção</div>
                 <div class="card-body">
                     <EditForm Model="ClienteModel" OnValidSubmit="HandleSalvar" FormName="Cliente">
+                        <DataAnnotationsValidator/>
                         <div class="form-group">
                             <label class="form-label">Nome</label>
                             <InputText @bind-Value="ClienteModel.Name" class="form-control"></InputText>
@@ -24,7 +29,7 @@
                         <div class="form-group">
                             <label class="form-label">Idade</label>
                             <InputNumber @bind-Value="ClienteModel.Idade" class="form-control"></InputNumber>
-                            <ValidationMessage For="()=>ClienteModel.Idade"></ValidationMessage>
+                            <ValidationMessage For="()=>ClienteModel.Idade"> </ValidationMessage>
                         </div>
                         <button type="submit" class="btn btn-primary mt-2">Submit</button>
 
@@ -34,6 +39,28 @@
                     Nome: @ReturnCliente.Name <br />
                     Email: @ReturnCliente.Email <br />
                     Idade: @ReturnCliente.Idade
+                </div>
+                <div>
+                    <p>a</p>
+                    <p>a</p>
+                    <p>a</p>
+                    <p>a</p>
+                    <p>a</p>
+                    <p>a</p>
+                    <p>a</p>
+                    <p>a</p>
+                    <p>a</p>
+                    <p>a</p>
+                    <p>a</p>
+                    <p>a</p>
+                    <p>a</p>
+                    <p>a</p>
+                    <p>a</p>
+                    <p>a</p>
+                    <p>a</p>
+                    <p>a</p>
+                    <p>a</p>
+                    <p>a</p>
                 </div>
             </div>
         </div>
@@ -52,24 +79,26 @@
 
     private async Task HandleSalvar()
     {
-        if (ClienteModel.Id > 0)
-        {
-            ReturnCliente = await _clienteService.UpdateClienteAsync(ClienteModel);
-            ClienteModel = new();
-        }
-        else
-        {
-            ReturnCliente = await _clienteService.AddClienteAsync(ClienteModel);
-            ClienteModel = new();
-        }
+        _navigation.NavigateTo("");
+        // if (ClienteModel.Id > 0)
+        // {
+        //     ReturnCliente = await _clienteService.UpdateClienteAsync(ClienteModel);
+        //     ClienteModel = new();
+        // }
+        // else
+        // {
+        //     ReturnCliente = await _clienteService.AddClienteAsync(ClienteModel);
+        //     ClienteModel = new();
+        // }
     }
+
 
     protected override async Task OnParametersSetAsync()
     {
         if (Id > 0)
         {
-            ClienteModel = await _clienteService.GetClienteByIdAsync(Id);
+            // ClienteModel = await _clienteService.GetClienteByIdAsync(Id);
         }
     }
 
-}
+} 

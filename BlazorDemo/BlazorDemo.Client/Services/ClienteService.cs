@@ -5,7 +5,7 @@ using System.Text.Json;
 
 namespace BlazorDemo.Client.Services
 {
-    public class ClienteService : IClienteRepository
+    public class ClienteService : IClienteRepositorio
     {
         private readonly HttpClient _httpClient;
         private readonly JsonSerializerOptions _options;
